@@ -1,21 +1,2 @@
-## 👨‍💻 Olá! Eu sou o Kevin F. S.
-
----
-
-### 🚀 Status Atual e Interesses
-
-* **🔭 Atualmente estou trabalhando em:** [Descreva seu projeto ou foco principal, ex: Desenvolvendo um sistema de e-commerce usando Python/Django e AWS.]
-* **🌱 Atualmente estou aprendendo:** [Especifique a tecnologia, idioma ou habilidade, ex: Machine Learning com PyTorch e aprofundando em design patterns.]
-* **👯 Procurando colaborar em:** [Mencione o tipo de projeto ou a área, ex: Iniciativas *open source* relacionadas a *DevOps* ou projetos que usem *microserviços*.]
-* **🤔 Buscando ajuda com:** [Indique um desafio técnico ou área de mentoria, ex: Refatoração de código legado ou otimização de performance em aplicações *full-stack*.]
-
----
-
-### 🗣️ Comunicação e Contato
-
-* **💬 Me pergunte sobre:** [Tópicos que você domina ou gosta de discutir, ex: Arquitetura *serverless*, testes automatizados, ou boas práticas de código.]
-* **📫 Como me encontrar:** [Seu e-mail, perfil do LinkedIn, ou links de outras redes sociais.]
-* **😄 Pronomes:** [Seus pronomes, ex: Ele/Dele.]
-* **⚡ Curiosidade:** [Um fato interessante ou engraçado sobre você, ex: Meu recorde de tempo sem fazer um *deploy* quebrando a produção é de 3 meses!]
-
+👨‍💻 Olá! Eu sou o Kevin F. S.🚀 Status Atual e Interesses🔭 Atualmente estou trabalhando em: Desenvolvendo um sistema de e-commerce escalável usando Python/Django e migrando parte da infraestrutura para AWS Lambda e Serverless.🌱 Atualmente estou aprendendo: Aprofundando em Machine Learning com PyTorch para modelos de recomendação e explorando design patterns avançados em Go.👯 Procurando colaborar em: Iniciativas open source relacionadas a DevOps e monitoramento (Prometheus/Grafana), ou projetos que usem arquitetura de microserviços.🤔 Buscando ajuda com: Refatoração de código legado em projetos enterprise e otimização de performance em aplicações full-stack de alta concorrência.🗣️ Comunicação e ContatoÍconeInformaçãoDetalhe💬Me pergunte sobre:Arquitetura serverless, testes automatizados (unitários e de integração), ou boas práticas de código limpo.📫Como me encontrar:kevinfssilvas@email.com😄Pronomes:Ele/Dele⚡Curiosidade:Meu recorde de tempo sem fazer um deploy quebrando a produção é de 3 meses! (Mas eu não conto os hotfixes...)🔗 Links Essenciais🌐 Portfólio/Website: www.kevinfssilvas.dev🤝 LinkedIn: linkedin.com/in/kevinfsilvas🛠️ Stack Principal: Python, Django, AWS, Docker, Git.
 
