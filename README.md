@@ -25,6 +25,6 @@
  🔗 Links Essenciais
 
   * **🌐 Portfólio/Website:** [www.kevinfssilvas.dev](https://www.google.com/search?q=https://www.kevinfssilvas.dev)
-  * **🤝 LinkedIn:** [linkedin.com/in/kevinfsilvas](https://www.google.com/search?q=https://www.linkedin.com/in/kevinfsilvas)
+  * **🤝 Linkedin:** [linkedin.com/in/kevinfsilvas](https://www.google.com/search?q=https://www.linkedin.com/in/kevinfsilvas)
   * **🛠️ Stack Principal:** Python, Django, AWS, Docker, Git.
 
